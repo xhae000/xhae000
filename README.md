@@ -1,7 +1,7 @@
 
 <h2>
 <p align="center">
-  <a href="https://xhae000.github.io/xhae000">🌐 Click to go Woojin's profile</a>
+  <a href="https://xhae000.github.io/profile">🌐 Click to go Woojin's profile</a>
 </p>
 </h2>
 
