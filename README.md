@@ -1,11 +1,11 @@
 <!-- 상단 웨이브 애니메이션 SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:2496ED&height=200&section=header&text=Woojin Kim | Kotlin Backend Developer
-&fontSize=40&fontAlignY=40&fontColor=FFFFFF&descAlign=70&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:2496ED&height=200&section=header&text=Woojin%20Kim%20%7C%20Kotlin%20Backend%20Developer&fontSize=40&fontAlignY=40&fontColor=FFFFFF&descAlign=70&descAlignY=70" />
+
 </p>
 
 <h3 align="center">
-  <a href="https://xhae000.github.io/profile"><u><b>👉 Check out my full developer profile! 🚀</b></u></a>
+  <a href="https://xhae000.github.io/profile"><u><b>👉 Check out my full developer profile!</b></u></a>
 </h3>
 <br>
 
