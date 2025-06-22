@@ -68,14 +68,3 @@
 ## Certificate
 - **SQLD (SQL Developer)**
   <br>한국데이터진흥원, 2023.08
-
----
-
-
-<br>
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xhae000)](https://solved.ac/profile/xhae000)
-
-</div>
