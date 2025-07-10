@@ -53,6 +53,9 @@
 
 ## Experience & Awards
 
+- **Raspy**
+<br>Tech Lead / Full-stack Developer, 2025 - present
+
 - **KVS (KHU Valley Start-up) 성장팀 선정**
 <br>경희대학교, 2024.11  
 
