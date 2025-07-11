@@ -53,7 +53,7 @@
 
 ## Experience & Awards
 
-- **Raspy**
+- **Raspy Inc.**
 <br>Tech Lead / Full-stack Developer, 2025 - present
 
 - **KVS (KHU Valley Start-up) 성장팀 선정**
