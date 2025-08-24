@@ -53,6 +53,9 @@
 
 ## Experience & Awards
 
+- **청소년 SW동행 해커톤 대학생 멘토**
+<br>과학기술정보통신부, 2025.7
+
 - **Raspy Inc.**
 <br>Tech Lead / Full-stack Developer, 2025 - present
 
