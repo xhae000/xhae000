@@ -1,6 +1,6 @@
 <!-- 상단 웨이브 애니메이션 SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:2496ED&height=200&section=header&text=Woojin%20Kim%20%7C%20Kotlin%20Backend%20Developer&fontSize=40&fontAlignY=40&fontColor=FFFFFF&descAlign=70&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:2496ED&height=200&section=header&text=Woojin%20Kim%20%7C%20Server%20Developer&fontSize=40&fontAlignY=40&fontColor=FFFFFF&descAlign=70&descAlignY=70" />
 
 </p>
 
