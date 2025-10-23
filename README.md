@@ -4,9 +4,6 @@
 
 </p>
 
-<h2 align="center">
-  <a href="https://xhae000.github.io/profile"><u><b>👉 Check out my full developer profile!</b></u></a>
-</h2>
 <br>
 
 <div align="center">
