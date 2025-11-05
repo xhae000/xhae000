@@ -2,8 +2,7 @@
 
 
 
-[![RocketPunch](https://img.shields.io/badge/RocketPunch-00C6B9?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@5f6d8f05) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]
-(https://velog.io/@xe0)
+[![RocketPunch](https://img.shields.io/badge/RocketPunch-00C6B9?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@5f6d8f05) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@xe0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xhae000@gmail.com) 
 
 ## Experience
