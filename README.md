@@ -9,9 +9,9 @@
 **Raspy Inc.**  
 *Tech Lead / Full-stack Developer, 2025 - Present*
 
-<img height="350" alt="스크린샷 2025-11-05 23 15 48" src="https://github.com/user-attachments/assets/bf37db3f-7e2b-41fe-aa48-f5c9b8240fa8" />
+<img height="150" alt="스크린샷 2025-11-05 23 15 48" src="https://github.com/user-attachments/assets/bf37db3f-7e2b-41fe-aa48-f5c9b8240fa8" />
 
-<img height="350" alt="스크린샷 2025-11-05 23 14 38" src="https://github.com/user-attachments/assets/e3b93942-ba82-4191-867a-a428f0949ebc" />
+<img height="150" alt="스크린샷 2025-11-05 23 14 38" src="https://github.com/user-attachments/assets/e3b93942-ba82-4191-867a-a428f0949ebc" />
 
 
 
