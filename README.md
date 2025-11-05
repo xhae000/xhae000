@@ -6,12 +6,12 @@
 
 ## Experience
 
-**Raspy Inc.**  
-*Tech Lead / Full-stack Developer, 2025 - Present*
-
 <img height="150" alt="스크린샷 2025-11-05 23 15 48" src="https://github.com/user-attachments/assets/bf37db3f-7e2b-41fe-aa48-f5c9b8240fa8" />
 
 <img height="150" alt="스크린샷 2025-11-05 23 14 38" src="https://github.com/user-attachments/assets/e3b93942-ba82-4191-867a-a428f0949ebc" />
+
+**Raspy Inc.**  
+*Tech Lead / Full-stack Developer, 2025 - Present*
 
 
 
@@ -24,8 +24,8 @@
 
 ## Technical Writing
 
-**[- 피드 조회 성능 최적화: 800ms → 30ms](https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
-: 네이티브 쿼리에서 인메모리 캐시 아키텍처로 전환하여 응답 시간 95% 개선
+**- [ 피드 조회 성능 최적화: 800ms → 30ms(https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
+: 네이티브 쿼리에서 인메모리 캐시 아키텍처로 전환하여 응답 시간 95% 개선]
 
 <br>
 
