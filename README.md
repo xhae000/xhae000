@@ -1,73 +1,65 @@
-<!-- 상단 웨이브 애니메이션 SVG -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:2496ED&height=200&section=header&text=Woojin%20Kim%20%7C%20Server%20Developer&fontSize=40&fontAlignY=40&fontColor=FFFFFF&descAlign=70&descAlignY=70" />
+# Woojin Kim  
 
-</p>
+
+
+[![RocketPunch](https://img.shields.io/badge/RocketPunch-00C6B9?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@5f6d8f05) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@xe0)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xhae000@gmail.com) 
+
+## Experience
+
+**Raspy Inc.**  
+*Tech Lead / Full-stack Developer, 2025 - Present*
+
+<img height="350" alt="스크린샷 2025-11-05 23 15 48" src="https://github.com/user-attachments/assets/bf37db3f-7e2b-41fe-aa48-f5c9b8240fa8" />
+
+<img height="350" alt="스크린샷 2025-11-05 23 14 38" src="https://github.com/user-attachments/assets/e3b93942-ba82-4191-867a-a428f0949ebc" />
+
+
+
+스포츠 SNS 서비스의 백엔드를 처음부터 설계하고 개발했습니다. 실시간 처리와 성능 최적화에 집중했고, 무엇보다도 사용자 경험 개선을 위한 기술적 해결책을 찾아 적용했습니다. 기술 스택 선정과 아키텍처 설계를 주도했으며, 비개발 팀과 협업하며 비즈니스 목표를 실행 가능한 개발 계획으로 만들었습니다.
+
+- **Tech Stack**: Kotlin, Spring Boot, MySQL, AWS(SQS, EC2, Lambda, S3),  Docker, Nginx, Github Actions
 
 <br>
 
-<div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-  <!-- Back-end Frameworks -->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI(Swagger)-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-85EA2D?style=for-the-badge&logo=websocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2-00599C?style=for-the-badge&logo=h2&logoColor=white"/>
-  
-  <!-- Infra / DevOps -->
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mockito-FFB300?style=for-the-badge&logo=mockito&logoColor=white"/>
+## Technical Writing
 
-  <!-- Collaboration & Docs -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+**[- 피드 조회 성능 최적화: 800ms → 30ms](https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
+: 네이티브 쿼리에서 인메모리 캐시 아키텍처로 전환하여 응답 시간 95% 개선
 
-</div>
-<br><br>
+<br>
+
 
 ## Education
-- **Kyung Hee University (경희대학교)**  
-  B.S. in Software Convergence (소프트웨어융합학과)  
-  *2022 - Present (Expected graduation: 2028)*
 
+**경희대학교**  
+소프트웨어융합학과 학사  
+*2022.03 - 2028.02 (졸업예정)*
 
-## Experience & Awards
+<br>
 
-- **청소년 SW동행 해커톤 대학생 멘토**
-<br>과학기술정보통신부, 2025.7
+## Honors & Activities
 
-- **Raspy Inc.**
-<br>Tech Lead / Full-stack Developer, 2025 - present
+**청소년 SW동행 해커톤 대학생 멘토** — *과학기술정보통신부*  
+*2025.07*
 
-- **KVS (KHU Valley Start-up) 성장팀 선정**
-<br>경희대학교, 2024.11  
+**KVS (KHU Valley Start-up) 성장팀 선정** — *경희대학교*  
+*2024.11*
 
-- **관광데이터 활용 서비스개발 공모전 우수상**
-  <br>한국관광공사 & Kakao, 2024.10  
+**관광데이터 활용 서비스개발 공모전 우수상** — *한국관광공사 & Kakao*  
+*2024.10*
 
-- **청소년 디지털 문제해결 프로젝트 대학생 멘토**
-  <br>한국과학창의재단, 2024.08 ~ 2024.11  
+**청소년 디지털 문제해결 프로젝트 대학생 멘토** — *한국과학창의재단*  
+*2024.08 - 2024.11*
 
-- **강원열린군대 스타트업 경진대회 대상**
-  <br>강원대학교 & 육군2군단, 2023.10  
+**강원열린군대 스타트업 경진대회 대상** — *강원대학교 & 육군2군단*  
+*2023.10*
+
+<br>
+
 
 ## Certificate
-- **SQLD (SQL Developer)**
-  <br>한국데이터진흥원, 2023.08
+
+**SQLD (SQL Developer)** — *한국데이터진흥원*  
+*2023.08*
+
