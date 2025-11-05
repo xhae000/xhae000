@@ -2,7 +2,8 @@
 
 
 
-[![RocketPunch](https://img.shields.io/badge/RocketPunch-00C6B9?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@5f6d8f05) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@xe0)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xhae000@gmail.com) 
+[![RocketPunch](https://img.shields.io/badge/RocketPunch-00C6B9?style=flat-square&logo=rocket&logoColor=white)](https://www.rocketpunch.com/@5f6d8f05) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]
+(https://velog.io/@xe0)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xhae000@gmail.com) 
 
 ## Experience
 
@@ -24,9 +25,11 @@
 
 ## Technical Writing
 
-**- [ 피드 조회 성능 최적화: 800ms → 30ms(https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
-: 네이티브 쿼리에서 인메모리 캐시 아키텍처로 전환하여 응답 시간 95% 개선]
-
+**[피드 조회 성능 최적화: 800ms → 30ms ](https://velog.io/@xe0/피드게시물-조회-성능-개선-800ms-30ms)**
+- UNION  쿼리와 N+1 문제로 인한 성능 병목을 Caffeine 인메모리 캐시로 해결
+- 유저별 데이터와 공통 데이터를 분리하여 캐싱 전략 설계
+- DB 부하 98% 감소, 처리량 20배 개선 달성
+- 
 <br>
 
 
